@@ -1,3 +1,5 @@
+#TP final primera parte de: Bruno Cardoso, Jeremias Papadopulos y Lautaro Bulaich.
+
 usuario_pre = "pepe"
 contra_pre = "gitano"
 
